@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Zhiqiang Hu"
-  avatar           : "ZhiqiangHu.jepg"
+  avatar           : "ZhiqiangHu.jpeg"
   bio              : "PhD student in SUTD"
   location         : "Singapore"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vjQQUnwAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.semanticscholar.org/author/Zhiqiang-Hu/1557412457" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/HZQ950419"
+  github           : "HZQ950419"
   google_plus      :
   keybase          :
   instagram        :
