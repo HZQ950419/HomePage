@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete resume [here](/files/Hu_Zhiqiang_CV.pdf)
+You can find my complete resume [here](../files/Hu_Zhiqiang_CV.pdf)
 
 ## Research Interests
 ======
