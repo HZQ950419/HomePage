@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my complete resume [here](https://github.com/HZQ950419/HomePage/blob/master/files/Hu_Zhiqiang_CV.pdf)
+You can find my complete resume [here](https://drive.google.com/file/d/1aVmDsEsiRXWnqVhCEL3vNdsLISrxc60Z/view?usp=sharing)
 
 ## Research Interests
 ======
