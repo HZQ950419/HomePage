@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my complete resume [here](/files/Hu_Zhiqiang_CV.pdf)
+You can find my complete resume [here](https://github.com/HZQ950419/HomePage/blob/master/files/Hu_Zhiqiang_CV.pdf)
 
 ## Research Interests
 ======
@@ -18,7 +18,7 @@ You can find my complete resume [here](/files/Hu_Zhiqiang_CV.pdf)
 * Large Language Models
   * Chain-of-Thought Prompting
   * Parameter-Efficient Fine-Tuning
-  * Retrival-augmented Generation
+  * Retrieval-augmented Generation
   * Data-Centric LLMs
   * Agents
 
