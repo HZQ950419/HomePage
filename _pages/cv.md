@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my complete resume [here](/files/Hu_Zhiqiang_CV.pdf)
+You can find my complete resume [here](https://drive.google.com/file/d/1aVmDsEsiRXWnqVhCEL3vNdsLISrxc60Z/view?usp=sharing)
 
 ## Research Interests
 ======
@@ -18,7 +18,39 @@ You can find my complete resume [here](/files/Hu_Zhiqiang_CV.pdf)
 * Large Language Models
   * Chain-of-Thought Prompting
   * Parameter-Efficient Fine-Tuning
-  * Retrival-augmented Generation
+  * Retrieval-augmented Generation
   * Data-Centric LLMs
   * Agents
 
+
+
+<!-- Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
