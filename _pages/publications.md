@@ -9,10 +9,13 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Preprints
-1. **LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay**  
+1. **All in a Single Image: Large Multimodal Models are In-Image Learners** 
+Lei Wang, Wanyu Xu, **Zhiqiang Hu**, Yihuai Lan, Shan Dong, Hao Wang, Roy Ka-Wei Lee, Ee-Peng Lim
+Manuscript 2024 \[[paper](https://arxiv.org/abs/2402.17971)\]
+2. **LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay**  
 Yihuai Lan\*, **Zhiqiang Hu**\*, Lei Wang, Yang Wang, Deheng Ye, Peilin Zhao, Ee-Peng Lim, Hui Xiong, Hao Wang  
 Manuscript 2023 \[[paper](https://arxiv.org/abs/2310.14985)\]
-2. **Are Current Task-oriented Dialogue Systems Able to Satisfy Impolite Users?**  
+3. **Are Current Task-oriented Dialogue Systems Able to Satisfy Impolite Users?**  
 **Zhiqiang Hu**, Roy Kaa-Wei Lee, Nancy F Chen.   
 Manuscript 2023 \[[paper](https://arxiv.org/pdf/2210.12942)\]
 ## Pulications
