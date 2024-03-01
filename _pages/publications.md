@@ -10,7 +10,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Preprints
 1. **All in a Single Image: Large Multimodal Models are In-Image Learners**  
-Lei Wang, Wanyu Xu, **Zhiqiang Hu**, Yihuai Lan, Shan Dong, Hao Wang, Roy Ka-Wei Lee, Ee-Peng Lim
+Lei Wang, Wanyu Xu, **Zhiqiang Hu**, Yihuai Lan, Shan Dong, Hao Wang, Roy Ka-Wei Lee, Ee-Peng Lim  
 Manuscript 2024 \[[paper](https://arxiv.org/abs/2402.17971)\]
 2. **LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay**  
 Yihuai Lan\*, **Zhiqiang Hu**\*, Lei Wang, Yang Wang, Deheng Ye, Peilin Zhao, Ee-Peng Lim, Hui Xiong, Hao Wang  
