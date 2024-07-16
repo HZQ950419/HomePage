@@ -9,7 +9,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Preprints
-1. **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**
+1. **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**  
 Wenhao Shi, **Zhiqiang Hu**\*, Yi Bin, Junhua Liu, Yang Yang, See-Kiong Ng, Lidong Bing, Roy Ka-Wei Lee  
 Manuscript 2024 \[[Paper](https://arxiv.org/abs/2406.17294)\], \[[Code](https://github.com/HZQ950419/Math-LLaVA)\], \[[Model](https://huggingface.co/Zhiqiang007/Math-LLaVA)\].
 1. **All in a Single Image: Large Multimodal Models are In-Image Learners**  
@@ -26,19 +26,19 @@ Manuscript 2023 \[[paper](https://arxiv.org/pdf/2210.12942)\]
 ## Pulications
 
 
-1. **GalleryGPT: Analyzing Paintings with Large Multimodal Models**
+1. **GalleryGPT: Analyzing Paintings with Large Multimodal Models**  
 Yi Bin, Wenhao Shi, Yujuan Ding, **Zhiqiang Hu**, Zheng Wang, Yang Yang, See-Kiong Ng, Heng Tao Shen  
 ACMMM 2024
 
-3. **InstructAV: Instruction Fine-tuning Large Language Models for Authorship Verification.**
+3. **InstructAV: Instruction Fine-tuning Large Language Models for Authorship Verification.**  
 Yujia Hu, **Zhiqiang Hu**\*, Chun Wei Seah, Roy Ka-Wei Lee  
 COLM 2024
 
-4. **SeaLLMs -- Large Language Models for Southeast Asia.**
+4. **SeaLLMs -- Large Language Models for Southeast Asia.**  
 Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, **Zhiqiang Hu**, Chenhui Shen, Yew Ken Chia, Xingxuan Li, Jianyu Wang, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing  
 ACL 2024 SDT \[[paper](https://arxiv.org/abs/2312.00738)\]
 
-5. **Contrastive Disentanglement for Authorship Attribution.**
+5. **Contrastive Disentanglement for Authorship Attribution.**  
 **Zhiqiang Hu**, Thao Thanh Nguyen, Yujia Hu, Chia-Yu Hung, Ming Shan Hee, Chun Wei Seah, Roy Ka-Wei Lee.  
 Companion Proceedings of the ACM on Web Conference 2024 \[[paper](https://dl.acm.org/doi/pdf/10.1145/3589335.3652501)\]
 
